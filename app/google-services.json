@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426654048682",
+    "firebase_url": "https://guitarapp-a5bd6.firebaseio.com",
+    "project_id": "guitarapp-a5bd6",
+    "storage_bucket": "guitarapp-a5bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426654048682:android:455f5c895209304464cbd3",
+        "android_client_info": {
+          "package_name": "com.zerre.guitarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426654048682-cqk3cr7nc3leipn28g8lh4r9k8vqejho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9vt0mu3ewKEyqntaVzJJtCga-AcBGPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426654048682-cqk3cr7nc3leipn28g8lh4r9k8vqejho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
